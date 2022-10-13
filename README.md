@@ -17,6 +17,6 @@
 - npm init -y
 - npm i express cookie-parser
 - npm i nodemon -D (y se agrego en package.json el script "dev")
-
+- npm run dev
 ---
 ⌨️ with ❤️ by [Juan Cruz Favaro](https://github.com/JCFavaro) 😊
