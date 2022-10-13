@@ -21,6 +21,11 @@ app.get("/setCookie", (req,res) => {
     res.send("Cookie sent")
 })
 
+app.get("/getCookie", (req,res) => {
+    res.send(req.cookies)
+
+    res.send("Reading Cookies")
+})
 
 app.listen(3000)
 
