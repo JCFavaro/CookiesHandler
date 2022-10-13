@@ -18,5 +18,10 @@
 - npm i express cookie-parser
 - npm i nodemon -D (y se agrego en package.json el script "dev")
 - npm run dev
+
+## Recursos
+
+- [HTTP Cookies Mozilla Developer](https://developer.mozilla.org/es/docs/Web/HTTP/Cookies)
+
 ---
 ⌨️ with ❤️ by [Juan Cruz Favaro](https://github.com/JCFavaro) 😊
