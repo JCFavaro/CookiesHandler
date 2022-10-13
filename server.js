@@ -22,9 +22,15 @@ app.get("/setCookie", (req,res) => {
 })
 
 app.get("/getCookie", (req,res) => {
-    res.send(req.cookies)
+    console.log(req.cookies)
 
     res.send("Reading Cookies")
+})
+
+app.get("/clearCookie", (req,res) => {
+    console.log(req.cookies)
+    res.clearCookie('MyCookie')
+    res.send("Deleting Cookie")
 })
 
 app.listen(3000)
