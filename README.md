@@ -2,7 +2,7 @@
 
 ## Descripcion 🚀
 
-- Manejo de cookies con Javascript (Node.js) gracias al middleware cookie-parser utilizando express. :cookie:
+- Aplicación super simple para estudiar un poco el manejo de cookies con Javascript (Node.js) gracias al middleware cookie-parser utilizando express.
 
 ## Realizado con 🛠️
 
